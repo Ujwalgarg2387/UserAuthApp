@@ -3,6 +3,9 @@
 This project is a simple user authentication system built with **React**, **Node.js**, **Express**, and **MySQL**. It supports features like user registration, login, password reset, and JWT-based authentication. It also includes basic styling and routing with React Router.
 This effective and simple user authentication system is built in such a way that it can be used in every project.
 
+![Screenshot (3)](https://github.com/user-attachments/assets/d4367dcf-970d-4e8a-8813-5d0a01e8d524)
+
+
 ## Features
 
 - **User Registration**: New users can register with their email and password.
